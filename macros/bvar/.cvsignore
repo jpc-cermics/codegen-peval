@@ -1,0 +1,5 @@
+*.bin
+.nsp_history
+.libs
+bdl.c
+*.lo *.la *.o

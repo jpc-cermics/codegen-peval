@@ -1,0 +1,6 @@
+## After changing, run
+##   svn propset svn:ignore -F .cvsignore -R .
+*.bin
+.nsp_history
+
+
